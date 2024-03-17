@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @eyazitouni
+- 👀 I’m interested in programming , photography and sport
+- 🌱 I’m currently learning c program
